@@ -70,8 +70,7 @@ Different drugs work better for different patients based on their health metrics
 
 ## **Contributors**
 - [Aditya Papal](https://github.com/AdityaPapal)
-- [Shravani Rane](https://github.com/srane1903)
-- [Diya Satpute](https://github.com/Diya1911) 
+- [Aarush kukade](https://github.com/Aarush4125)
 
 ---
 
@@ -81,3 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 This format provides a clear structure for your README file, ensuring that key sections are covered efficiently.
+
